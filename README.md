@@ -7,7 +7,7 @@ Technology Used : HTML5, CSS3, JavaScript
 <h2>Features</h2>
 <ul>
   <li> Application has start and stop button </li>
-  <li> Application alerts the player's record reaction time <li>
+  <li> Application alerts the player's record reaction time </li>
 </ul>
 
 <h3> Before Start </h3>
