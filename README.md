@@ -1,6 +1,6 @@
 # reaction-tester-using-JS
 
-Reactions Tester a simple web game built using Java Script. It keeps on displaying a solid box or circle in various locations of the screen, once they are clicked, the application shows the reaction time to click. It also keeps track of least time to react and pops an alert message showing your best time when stop button is clicked.
+Reaction Tester a simple web game built using Java Script. It keeps on displaying a solid box or circle in various locations of the screen, once they are clicked, the application shows the reaction time to click. It also keeps track of least time to react and pops an alert message showing your best time when stop button is clicked.
 <br>
 Technology Used : HTML5, CSS3, JavaScript
 
@@ -24,4 +24,4 @@ Technology Used : HTML5, CSS3, JavaScript
    
 <h3>In action </h3>
 
-<p>See my project in action <a href = "http://jayasampathwebhosting-com.stackstaging.com/projects/reaction-tester/" > here</a></p>
+<p>See my project in action <a href = "https://jaysreactiontester.000webhostapp.com/" > here</a></p>
